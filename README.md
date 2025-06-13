@@ -1,10 +1,10 @@
-Project Title
+Project Title : 
 OnePercentUp – Grow 1% Better Every Single Day.
 
-🧠 Problem Statement
+🧠 Problem Statement : 
 In a fast-paced world, individuals often struggle to stay consistent with long-term goals especially those relating to career growth and personal health. Existing tools offer isolated solutions (either task management or wellness tracking), resulting in fragmented efforts, missed opportunities, and burnout.
 
-💡 Solution Overview
+💡 Solution Overview : 
    OnePercentUp is an AI-driven, holistic productivity platform that bridges personal growth and professional development. It helps users:
 1. Define and align their long-term visions,
 2. Break them into adaptive, achievable daily actions,
@@ -13,12 +13,12 @@ In a fast-paced world, individuals often struggle to stay consistent with long-t
 5. Use smart insights to optimize performance over time.
 
 🚀 Features
-✅ Integrated Career & Health Goal Management
-🧠 AI-Powered Action Planning
-📊 Smart Progress & Emotion Tracking
-🔁 Adaptive Goal Adjustments Based on Behavior
-🧘‍♀️ Wellness Reminders & Mood Reflections
-📅 Unified Dashboard for Daily Planning
+✅ Integrated Career & Health Goal Management,
+🧠 AI-Powered Action Planning,
+📊 Smart Progress & Emotion Tracking,
+🔁 Adaptive Goal Adjustments Based on Behavior,
+🧘‍♀️ Wellness Reminders & Mood Reflections,
+📅 Unified Dashboard for Daily Planning,
 
 🧭 User Flow
 1. Onboarding – Set long-term career and health goals
